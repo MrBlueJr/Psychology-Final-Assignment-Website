@@ -8,3 +8,10 @@
 *.txt
 >>>>>>> 633cf998b29975730d9c4b98eb1c892587239e73
 *.png
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
