@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 *.pdf
 *.py
 *.txt
+*.gitignore
+=======
+*.pdf
+*.py
+*.txt
+>>>>>>> 633cf998b29975730d9c4b98eb1c892587239e73
 *.png
